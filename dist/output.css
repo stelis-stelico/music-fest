@@ -564,14 +564,6 @@ h6{
   --tw-backdrop-sepia:  ;
 }
 
-.btn{
-  display: inline-block;
-  cursor: pointer;
-  font-weight: bold;
-  padding: 0.5rem 1rem;
-  border-radius: 0.5rem;
-}
-
 .menu-items{
   position: relative;
   display: flex;
