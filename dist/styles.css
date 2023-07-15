@@ -1,0 +1,4 @@
+body:not(.dark) .moon-button {
+    display: none;
+  }
+  
